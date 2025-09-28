@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes\\source\\repos\\TEKMET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enes\\source\\repos\\tekmet\\tekmet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enes\\source\\repos\\tekmet\\tekmet\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enes\\source\\repos\\tekmet\\tekmet\\frmmusterihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmmusterihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMusteriHesap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\FrmMusteriHesap.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmMusteriHesap.cs",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\FrmMusteriHesap.cs [Design]",
+              "RelativeToolTip": "TEKMET\\FrmMusteriHesap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:46:16.675Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMusteriEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\FrmMusteriEkle.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmMusteriEkle.cs",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\FrmMusteriEkle.cs [Design]",
+              "RelativeToolTip": "TEKMET\\FrmMusteriEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:46:15.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\Form1.cs",
+              "RelativeDocumentMoniker": "TEKMET\\Form1.cs",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\Form1.cs [Design]",
+              "RelativeToolTip": "TEKMET\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:46:09.753Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
