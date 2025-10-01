@@ -37,6 +37,7 @@
             this.btnKaydet = new System.Windows.Forms.Button();
             this.btnIptal = new System.Windows.Forms.Button();
             this.btnSil = new System.Windows.Forms.Button();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.nudFiyat)).BeginInit();
             this.SuspendLayout();
             // 
@@ -44,9 +45,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(12, 37);
+            this.label1.Location = new System.Drawing.Point(24, 71);
+            this.label1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(72, 19);
+            this.label1.Size = new System.Drawing.Size(141, 34);
             this.label1.TabIndex = 0;
             this.label1.Text = "İş Tanımı:";
             // 
@@ -54,56 +56,62 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Bold);
-            this.label2.Location = new System.Drawing.Point(19, 73);
+            this.label2.Location = new System.Drawing.Point(38, 140);
+            this.label2.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(65, 19);
+            this.label2.Size = new System.Drawing.Size(126, 34);
             this.label2.TabIndex = 1;
             this.label2.Text = "İş Tarihi:";
             // 
             // txtIsTanimi
             // 
-            this.txtIsTanimi.Location = new System.Drawing.Point(84, 7);
+            this.txtIsTanimi.Location = new System.Drawing.Point(168, 13);
+            this.txtIsTanimi.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.txtIsTanimi.Multiline = true;
             this.txtIsTanimi.Name = "txtIsTanimi";
-            this.txtIsTanimi.Size = new System.Drawing.Size(315, 63);
+            this.txtIsTanimi.Size = new System.Drawing.Size(626, 117);
             this.txtIsTanimi.TabIndex = 2;
             // 
             // dtpIsTarihi
             // 
-            this.dtpIsTarihi.Location = new System.Drawing.Point(84, 76);
+            this.dtpIsTarihi.Location = new System.Drawing.Point(168, 146);
+            this.dtpIsTarihi.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.dtpIsTarihi.Name = "dtpIsTarihi";
-            this.dtpIsTarihi.Size = new System.Drawing.Size(200, 20);
+            this.dtpIsTarihi.Size = new System.Drawing.Size(396, 31);
             this.dtpIsTarihi.TabIndex = 3;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(40, 100);
+            this.label3.Location = new System.Drawing.Point(80, 192);
+            this.label3.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 19);
+            this.label3.Size = new System.Drawing.Size(86, 34);
             this.label3.TabIndex = 4;
             this.label3.Text = "Fiyat:";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // nudFiyat
             // 
-            this.nudFiyat.Location = new System.Drawing.Point(84, 102);
+            this.nudFiyat.Location = new System.Drawing.Point(168, 196);
+            this.nudFiyat.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.nudFiyat.Maximum = new decimal(new int[] {
             -1981284352,
             -1966660860,
             0,
             0});
             this.nudFiyat.Name = "nudFiyat";
-            this.nudFiyat.Size = new System.Drawing.Size(120, 20);
+            this.nudFiyat.Size = new System.Drawing.Size(240, 31);
             this.nudFiyat.TabIndex = 5;
             // 
             // btnKaydet
             // 
             this.btnKaydet.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Bold);
-            this.btnKaydet.Location = new System.Drawing.Point(16, 128);
+            this.btnKaydet.Location = new System.Drawing.Point(32, 246);
+            this.btnKaydet.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.btnKaydet.Name = "btnKaydet";
-            this.btnKaydet.Size = new System.Drawing.Size(75, 31);
+            this.btnKaydet.Size = new System.Drawing.Size(150, 60);
             this.btnKaydet.TabIndex = 6;
             this.btnKaydet.Text = "Kaydet";
             this.btnKaydet.UseVisualStyleBackColor = true;
@@ -112,9 +120,10 @@
             // btnIptal
             // 
             this.btnIptal.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Bold);
-            this.btnIptal.Location = new System.Drawing.Point(97, 128);
+            this.btnIptal.Location = new System.Drawing.Point(194, 246);
+            this.btnIptal.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.btnIptal.Name = "btnIptal";
-            this.btnIptal.Size = new System.Drawing.Size(75, 31);
+            this.btnIptal.Size = new System.Drawing.Size(150, 60);
             this.btnIptal.TabIndex = 7;
             this.btnIptal.Text = "Iptal";
             this.btnIptal.UseVisualStyleBackColor = true;
@@ -123,19 +132,31 @@
             // btnSil
             // 
             this.btnSil.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Bold);
-            this.btnSil.Location = new System.Drawing.Point(178, 128);
+            this.btnSil.Location = new System.Drawing.Point(356, 246);
+            this.btnSil.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.btnSil.Name = "btnSil";
-            this.btnSil.Size = new System.Drawing.Size(79, 31);
+            this.btnSil.Size = new System.Drawing.Size(158, 60);
             this.btnSil.TabIndex = 8;
             this.btnSil.Text = "Sil";
             this.btnSil.UseVisualStyleBackColor = true;
             this.btnSil.Click += new System.EventHandler(this.btnSil_Click);
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(577, 216);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(150, 29);
+            this.checkBox1.TabIndex = 9;
+            this.checkBox1.Text = "checkBox1";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
             // FrmYeniIs
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(411, 181);
+            this.ClientSize = new System.Drawing.Size(822, 348);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.btnSil);
             this.Controls.Add(this.btnIptal);
             this.Controls.Add(this.btnKaydet);
@@ -146,6 +167,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.MaximizeBox = false;
             this.Name = "FrmYeniIs";
             this.Text = "İş Ekleme Formu";
@@ -167,5 +189,6 @@
         private System.Windows.Forms.Button btnKaydet;
         private System.Windows.Forms.Button btnIptal;
         private System.Windows.Forms.Button btnSil;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
