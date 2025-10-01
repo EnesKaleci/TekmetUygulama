@@ -174,9 +174,10 @@
             // lblGenelToplam
             // 
             this.lblGenelToplam.AutoSize = true;
-            this.lblGenelToplam.Location = new System.Drawing.Point(110, 553);
+            this.lblGenelToplam.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Bold);
+            this.lblGenelToplam.Location = new System.Drawing.Point(104, 549);
             this.lblGenelToplam.Name = "lblGenelToplam";
-            this.lblGenelToplam.Size = new System.Drawing.Size(44, 13);
+            this.lblGenelToplam.Size = new System.Drawing.Size(56, 19);
             this.lblGenelToplam.TabIndex = 12;
             this.lblGenelToplam.Text = "0,00 TL";
             // 

@@ -1,18 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Enes\\source\\repos\\TEKMET\\",
+  "WorkspaceRootPath": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enes\\source\\repos\\tekmet\\tekmet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enes\\desktop\\tekmetuygulama\\tekmet\\tekmet\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enes\\desktop\\tekmetuygulama\\tekmet\\tekmet\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enes\\desktop\\tekmetuygulama\\tekmet\\tekmet\\frmyeniis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmyeniis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\tekmet\\frmyeniis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmyeniis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TEKMET||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\tekmet\\frmmusterihesap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmmusterihesap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\tekmet\\frmmusterihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmmusterihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\tekmet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enes\\source\\repos\\tekmet\\tekmet\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\tekmet\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enes\\source\\repos\\tekmet\\tekmet\\frmmusterihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmmusterihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +53,108 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmMusteriHesap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\FrmMusteriHesap.cs",
-              "RelativeDocumentMoniker": "TEKMET\\FrmMusteriHesap.cs",
-              "ToolTip": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\FrmMusteriHesap.cs [Design]",
-              "RelativeToolTip": "TEKMET\\FrmMusteriHesap.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "FrmTeklifOlustur.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmTeklifOlustur.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmTeklifOlustur.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmTeklifOlustur.cs",
+              "RelativeToolTip": "TEKMET\\FrmTeklifOlustur.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAQwKMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T16:46:16.675Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-29T10:19:58.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmMusteriEkle.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\FrmMusteriEkle.cs",
-              "RelativeDocumentMoniker": "TEKMET\\FrmMusteriEkle.cs",
-              "ToolTip": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\FrmMusteriEkle.cs [Design]",
-              "RelativeToolTip": "TEKMET\\FrmMusteriEkle.cs [Design]",
+              "Title": "FrmTeklifOlustur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmTeklifOlustur.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmTeklifOlustur.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmTeklifOlustur.cs [Design]",
+              "RelativeToolTip": "TEKMET\\FrmTeklifOlustur.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T16:46:15.185Z",
+              "WhenOpened": "2025-09-29T10:19:56.382Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "FrmYeniIs.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmYeniIs.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmYeniIs.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmYeniIs.cs",
+              "RelativeToolTip": "TEKMET\\FrmYeniIs.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:18:01.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmYeniIs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmYeniIs.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmYeniIs.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmYeniIs.cs [Design]",
+              "RelativeToolTip": "TEKMET\\FrmYeniIs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:18:00.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TEKMET",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\TEKMET.csproj",
+              "RelativeDocumentMoniker": "TEKMET\\TEKMET.csproj",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\TEKMET.csproj",
+              "RelativeToolTip": "TEKMET\\TEKMET.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T10:04:26.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMusteriHesap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmMusteriHesap.Designer.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmMusteriHesap.Designer.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmMusteriHesap.Designer.cs",
+              "RelativeToolTip": "TEKMET\\FrmMusteriHesap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:55:46.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMusteriHesap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmMusteriHesap.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmMusteriHesap.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmMusteriHesap.cs [Design]",
+              "RelativeToolTip": "TEKMET\\FrmMusteriHesap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:46:16.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMusteriEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmMusteriEkle.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmMusteriEkle.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\FrmMusteriEkle.cs [Design]",
+              "RelativeToolTip": "TEKMET\\FrmMusteriEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:46:15.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\Form1.cs",
               "RelativeDocumentMoniker": "TEKMET\\Form1.cs",
-              "ToolTip": "C:\\Users\\Enes\\source\\repos\\TEKMET\\TEKMET\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\TEKMETUYGULAMA\\TEKMET\\TEKMET\\Form1.cs [Design]",
               "RelativeToolTip": "TEKMET\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T16:46:09.753Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-26T16:46:09.753Z"
             }
           ]
         }
