@@ -70,7 +70,19 @@ namespace TEKMET
     Notlar          TEXT,
     FOREIGN KEY(MusteriID) REFERENCES Musteriler(MusteriID)
 );
-
+CREATE TABLE Calisanlar (
+        CalisanID   INTEGER PRIMARY KEY AUTOINCREMENT,
+        AdSoyad     TEXT NOT NULL,
+        Telefon     TEXT
+    );
+CREATE TABLE Giderler (
+        GiderID     INTEGER PRIMARY KEY AUTOINCREMENT,
+        CalisanID   INTEGER,
+        Aciklama    TEXT,
+        Tutar       REAL,
+        Tarih       TEXT,
+        FOREIGN KEY(CalisanID) REFERENCES Calisanlar(CalisanID)
+    );
     CREATE TABLE TeklifKalemleri (
         KalemID         INTEGER PRIMARY KEY AUTOINCREMENT,
         TeklifID        INTEGER NOT NULL,

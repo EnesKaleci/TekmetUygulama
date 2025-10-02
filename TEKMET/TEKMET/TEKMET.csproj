@@ -166,6 +166,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmCalisanlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCalisanlar.Designer.cs">
+      <DependentUpon>FrmCalisanlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGiderler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGiderler.Designer.cs">
+      <DependentUpon>FrmGiderler.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMusteriEkle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -201,6 +213,12 @@
     <Compile Include="Veritabani.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCalisanlar.resx">
+      <DependentUpon>FrmCalisanlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGiderler.resx">
+      <DependentUpon>FrmGiderler.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMusteriEkle.resx">
       <DependentUpon>FrmMusteriEkle.cs</DependentUpon>

@@ -306,14 +306,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TEKMET.exe" size="628680">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TEKMET.exe" size="649160">
       <assemblyIdentity name="TEKMET" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mhzlQ9qpJv0hAsgVm1wksU+yJ1x2ahc3BJBwKw13YAE=</dsig:DigestValue>
+        <dsig:DigestValue>n97Z8Owx7ieyPZMIrrpsdE7XhSseNvv8mj8Rkh+DRqg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
