@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enesk\\Desktop\\TekmetUygulama\\TekmetUygulama\\TEKMET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enesk\\desktop\\tekmetuygulama\\tekmetuygulama\\tekmet\\tekmet\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enesk\\desktop\\tekmetuygulama\\tekmetuygulama\\tekmet\\tekmet\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|c:\\users\\enesk\\desktop\\tekmetuygulama\\tekmetuygulama\\tekmet\\tekmet\\xtextformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FC64-226D-46EA-8AB3-4FB9F9565DD4}|TEKMET\\TEKMET.csproj|solutionrelative:tekmet\\xtextformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XTextFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\enesk\\Desktop\\TekmetUygulama\\TekmetUygulama\\TEKMET\\TEKMET\\XTextFormatter.cs",
+              "RelativeDocumentMoniker": "TEKMET\\XTextFormatter.cs",
+              "ToolTip": "C:\\Users\\enesk\\Desktop\\TekmetUygulama\\TekmetUygulama\\TEKMET\\TEKMET\\XTextFormatter.cs",
+              "RelativeToolTip": "TEKMET\\XTextFormatter.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAMgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T21:25:46.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTeklifOlustur.cs",
+              "DocumentMoniker": "C:\\Users\\enesk\\Desktop\\TekmetUygulama\\TekmetUygulama\\TEKMET\\TEKMET\\FrmTeklifOlustur.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmTeklifOlustur.cs",
+              "ToolTip": "C:\\Users\\enesk\\Desktop\\TekmetUygulama\\TekmetUygulama\\TEKMET\\TEKMET\\FrmTeklifOlustur.cs",
+              "RelativeToolTip": "TEKMET\\FrmTeklifOlustur.cs",
+              "ViewState": "AgIAAHICAAAAAAAAAAAQwIsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T21:10:26.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTeklifOlustur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enesk\\Desktop\\TekmetUygulama\\TekmetUygulama\\TEKMET\\TEKMET\\FrmTeklifOlustur.cs",
+              "RelativeDocumentMoniker": "TEKMET\\FrmTeklifOlustur.cs",
+              "ToolTip": "C:\\Users\\enesk\\Desktop\\TekmetUygulama\\TekmetUygulama\\TEKMET\\TEKMET\\FrmTeklifOlustur.cs [Design]",
+              "RelativeToolTip": "TEKMET\\FrmTeklifOlustur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T21:10:22.345Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
